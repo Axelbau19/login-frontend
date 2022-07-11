@@ -41,3 +41,12 @@
     text-align: center;
     border: 1px solid;
 }
+
+.forgot-password{
+  margin-left: 180px;
+}
+
+.btn-dark{
+  margin-top: 5px;
+  padding: 20px 130px;
+}
