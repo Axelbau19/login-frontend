@@ -1,0 +1,43 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #c6caca;
+  height: 100%;
+}
+
+.divLogo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 130px;
+  border-radius: 30%;
+}
+.divLogo > .logo {
+    height: 130px;
+    margin-bottom: 100px;
+    border-radius: 10%;
+
+}
+
+.buttom-dark{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+    
+}
+
+.body > .label1 {
+    margin-bottom: 40px;
+    
+}
+
+.create-user{
+    margin-top: 40px;
+    padding: 16px 16px;
+    text-align: center;
+    border: 1px solid;
+}
